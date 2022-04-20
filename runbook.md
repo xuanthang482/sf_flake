@@ -48,3 +48,5 @@ SCD Type 1: ghi đè các record.
 - Thống kê số lượng reviewer theo số lượng bài review (barchart)
 - Thống kê số lượng bài reviewer theo năm (linechart)
 - Thống kê ASIN theo năm (piechart)
+![sf_visualize](https://user-images.githubusercontent.com/62737637/164174943-aef41fb3-c0e5-433a-bddf-6fc9c3415f74.png)
+
